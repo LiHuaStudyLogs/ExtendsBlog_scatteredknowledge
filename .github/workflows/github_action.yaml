@@ -86,7 +86,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://github.com/LiHuaStudyLogs/ExtendsBlog_scatteredknowledge.git/" \
+            --baseURL "https://lihuastudylogs.github.io/ExtendsBlog_scatteredknowledge/" \
 
       # --cacheDir "${{ runner.temp }}/hugo_cache"
 
