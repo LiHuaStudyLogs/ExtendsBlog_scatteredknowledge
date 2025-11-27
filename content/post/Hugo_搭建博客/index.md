@@ -2,6 +2,7 @@
 date = '2025-11-26T01:32:42+08:00'
 draft = false
 title = 'Hugo_搭建博客'
+summary = '学习hugo技术，搭建自己的博客网页。其中涉及技术： hugo搭建网页 ———— markdown语法 ———— github pages服务部署'
 +++
 
 **原理** ：
