@@ -2,7 +2,7 @@
 date = '2025-11-26T01:32:42+08:00'
 draft = false
 title = 'Hugo_搭建博客'
-summary = '学习hugo技术，搭建自己的博客网页。其中涉及技术： hugo搭建网页 ———— markdown语法 ———— github pages服务部署'
+description = '学习hugo技术，搭建自己的博客网页。其中涉及技术： hugo搭建网页 ———— markdown语法 ———— github pages服务部署'
 +++
 
 **原理** ：
@@ -35,9 +35,12 @@ summary = '学习hugo技术，搭建自己的博客网页。其中涉及技术�
 	生成在在根目录下，静态页面站目录，最终的网页html文件所在  
 	> 创建命令行：  
 	> 1. 基于hugo根目录   
-	> 2. hugo - D
-* hugo.yaml 配置文件：  
-    配置hugo页面的属性设置，可以连接不同的themes，baseurl
+	> 2. hugo - D	
+* hugo.yaml 配置文件：
+  
+    配置hugo页面的属性设置，可以连接不同的themes，baseurl  
+
+
 
  
 ## 要素二 ：过程  
